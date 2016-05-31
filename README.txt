@@ -1,0 +1,1 @@
+This assignment is mini project 2 from the website datanalyst.xyz. It can be found under the full curriculum on that website. The main objective of this project, was to create a Monte Carlo on excel similar to what could be asked to do for a company.  
